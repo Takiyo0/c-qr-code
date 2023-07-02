@@ -25,7 +25,7 @@ Mobile view (375x666)
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/Takiyo0/c-qr-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages]([https://your-live-site-url.com](https://takiyo0.github.io/c-qr-code/))
 
 ## My process
 
